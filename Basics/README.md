@@ -37,3 +37,5 @@ grep [options] "pattern" file
 
 ## ps-command-in-linux
 ps command in linux can be used to view current active processes.
+
+To see running processes in Linux, you can use the "ps aux" command for a complete snapshot of all processes.
