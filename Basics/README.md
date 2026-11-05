@@ -4,6 +4,7 @@ Table of contents
 1.[tail/head command in linux](#tail/head-command-linux)
 1.[grep command in linux](#grep-command-in-linux)
 1.[ps command in linux](#ps-command-in-linux)
+1.[history command in linux](#history-command-in-linux)
 
 ## watch-command-linux
 Watch command in linux can be used to keep running the same command for every particulat second instead of re running the command manually. 
@@ -39,3 +40,6 @@ grep [options] "pattern" file
 ps command in linux can be used to view current active processes.
 
 To see running processes in Linux, you can use the "ps aux" command for a complete snapshot of all processes.
+
+## history-command-in-linux
+The history command in Linux is a built-in shell utility that displays a numbered list of the commands you have previously executed in your terminal session
