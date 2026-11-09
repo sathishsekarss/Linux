@@ -1,10 +1,10 @@
-Table of contents
+## Table of contents
 
-1.[Watch command in linux](#watch-command-linux)
-1.[tail/head command in linux](#tail/head-command-linux)
-1.[grep command in linux](#grep-command-in-linux)
-1.[ps command in linux](#ps-command-in-linux)
-1.[history command in linux](#history-command-in-linux)
+1. [Watch command in linux](#watch-command-linux)
+1. [tail/head command in linux](#tail/head-command-linux)
+1. [grep command in linux](#grep-command-in-linux)
+1. [ps command in linux](#ps-command-in-linux)
+1. [history command in linux](#history-command-in-linux)
 
 ## watch-command-linux
 Watch command in linux can be used to keep running the same command for every particulat second instead of re running the command manually. 
